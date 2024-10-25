@@ -1,0 +1,27 @@
+## Corrected Voter Registration Data
+
+```csv
+id,ID,Name,Father's Name,House Number,Age,Gender,Status
+1,AMB6125173,Hina Parveen,Sayyad Aliyar,912,29,Female,Available
+2,AMBS030580,Khan Nurunusa,Md. Jahir Khan,997,37,Female,Available
+3,AMBS684287,Nazira Bee,Shaikh Ajim,1712,41,Female,Available
+4,MJC1254218,Shakir Ali Shaukat Al,Shaukat Ali,1114,40,Male,Available
+5,MJC1254288,M. Rafiq M. Ismail,Md. Ismail,1115,73,Male,Available
+6,MJC 1254234,Sahib Janbi M. Ratiq,Md. Rafiq,1115,46,Female,Available
+7,MJC12 70297,M. Atif M. Rafiq,M. Rafiq,1116,41,Male,Available
+8,AMB1673482,Junedkhan Jahirkhan,Jahirkhan,1125,4,Male,Available
+9,AMB4 106753,Santosh Rama Maske,Rama Maske,1585,34,Male,Available
+10,AMBS030713,Hameedabi J. Se. Vahid,Se. Vahid,3231,59,Female,Available
+11,MJC 1252865,Shamshadbi M. Taifiq,M. Taifig,1115,43,Female,Available
+12,AMB16/3474,RAHIMA BANG ZAHEER KH,Khan,1120,53,Female,Available
+13,AMB4106811,Vasimkhan Jahirkhan,Jahirkhan,1125,32,Male,Available
+14,AMB5030507,Muzammil Zafar Husain,Zafar Husain,1631,24,Male,Available
+15,AMB? 738420,VINOD PAWAR,BALIRAM PAWAR,G8/262,40,Male,Available
+16,AMB?7738438,Shahista Bano,Noor Khan,62/892,38,Female,Available
+17,AMBS030556,lshrat parveen,Syed Tayyed Ali,M896,24,Female,Available
+18,AMBS030556,Nagina Bi,Sayyed Naim,04,32,Female,Available
+19,AMB1673482,Jahir. Khan Habib. Khan,Habib. Khan,1125,61,Male,Available
+20,AMB4106829,Vishal Pradeep Kamble,Pradeep Kamble,132 1bi,44,Male,Available
+21,AMB1673482,M. Sadeeg M. Rafiq,Md. Rafiq,1116,41,Male,Available
+22,AMB4106829,Gajanan Sanjay Umbarkar,Sanjay Umbarkar,2861,42,Male,Available
+```

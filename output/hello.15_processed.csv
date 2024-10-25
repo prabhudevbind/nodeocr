@@ -1,0 +1,35 @@
+Here's the corrected voter registration data as a CSV file with the specified headers:
+
+```
+id,ID,Name,Father's Name,House Number,Age,Gender,Status
+1,AMB6857296,Ibrahim Beg Umarbeg,Umarbeag,300,69,Male,Available
+2,AMB1673433,Rahimabi J. Ibrahimbeg,Ibrahimbeg,300,64,Female,Available
+3,MJC0?S3764,Se. Kareem Se. Mannu,Se. Mannu,302,79,Male,Available
+4,AMB1664226,Halimabi J. Hasanaullakhan,Hasanaullakhan,303,84,Female,Available
+5,AMB1673466,Anwarakhan Hasan Ullakhann,Hasan Ullakhann,303,54,Male,Available
+6,MJCO1269943,Shahnaz Parvi Pree Khan,,303,49,Female,Available
+7,MJC1269950,Shivdas Shankar Pawar,Shankar Pawar,304,64,Male,Available
+8,AMB16/3441,Manjula J. Shivdas Pawar,Shivdas Pawar,304,59,Female,Available
+9,AMB1754639,Jayabunabi J. Se. Qasam,Se. Qasam,307,69,Female,Available
+10,AMB1724251,Farooque Se. Gasam,Se. Gasam,307,51,Male,Available
+11,AMB0925424,Kondabai J. Rama Maske,Rama Maske,322,64,Female,Available
+12,AMB1673441,Ansar Mohammad,Mohammad,423,55,Male,Available
+13,AMB1673466,Sajeda Parvin J. Ansar,Ansar,323,49,Female,Available
+14,AMBO925424,Shaikh isa Se. Ibrahim,Se. Ibrahim,426,48,Male,Available
+15,AMBS6857304,SHABBIR KHAN,SHER KHAN,S87,48,Male,Available
+16,AMB6857312,A. Rauf A. Rehman,A. Rehman,31/9,61,Male,Available
+17,AMB6925390,Noor Mohammad Se. Bhikan,Se. Bhikan,323,89,Male,Available
+18,AMB6857320,Mugtar Mohammad Noor Mohammad,Noor Mohammad,323,52,Male,Available
+19,AMB?7428436,Dildar Mohammad Noor Mohammad,Noor Mohammad,323,48,Male,Available
+20,AMB6844237,Nazmeen Parveen Shaikh Mohsin,Shaikh Mohsin Shaikh,326,27,Female,Available
+21,MJC1254390,FARZANA PARVIN MUSHTAK KHAN,MUSHTAK KHAN,455,46,Female,Available
+22,AMB4925382,Asha J. Parasharam Aggarwal,Parasharam Aggarwal,321,59,Female,Available
+23,MUCI257484,Irshad B Noor Mohammad,Noor Mohammad,323,64,Female,Available
+24,AMB5925408,Abrar Mohammad Noor Mohammad,Noor Mohammad,323,60,Male,Available
+25,AMBS925408,Khaleda Parvin J. Muqtar,Muqtar,323,48,Female,Available
+26,AMB?428303,Tarannum Parveen Shaikh lbrahim,Shaikh lbrahim Shaikh,326,26,Female,Available
+27,AMB6097 182,SHAZIYA RIZWAN AZIZ ALI SHAH,AZIZ] ALI SHAH,550,30,Female,Available
+28,AMBS381371,SANTOSH DAYAL NINODIYA,DAYAL NINODIYA,40-1,21,Male,Available
+29,AMB4097802,AKSHAY SANTOSH INGOLE,SANTOSH INGOLE,60-4,23,Male,Available
+30,AMBS3813463,SAVITA MANOJ NINOAIYA,MANOJ NINOAIYA,47-1,44,Female,Available
+```

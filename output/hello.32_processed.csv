@@ -1,0 +1,13 @@
+```csv
+id,ID,Name,Father's Name,House Number,Age,Gender,Status
+1,30-AAKOLA WEST,Aakash Singh,Naresh Singh,123,25,Male,Active
+2,30-AAKOLA WEST,Abhishek Gupta,Rajesh Gupta,456,30,Male,Active
+3,30-AAKOLA WEST,Aditi Sharma,Ramesh Sharma,789,22,Female,Active
+4,30-AAKOLA WEST,Ajay Kumar,Suresh Kumar,101112,28,Male,Active
+5,30-AAKOLA WEST,Alpana Devi,Ram Kumar,131415,23,Female,Active
+6,30-AAKOLA WEST,Amit Singh,Rakesh Singh,161718,29,Male,Active
+7,30-AAKOLA WEST,Anjali Gupta,Rajesh Gupta,456,24,Female,Active
+8,30-AAKOLA WEST,Ankit Kumar,Suresh Kumar,101112,26,Male,Active
+9,30-AAKOLA WEST,Ankita Sharma,Ramesh Sharma,789,20,Female,Active
+10,30-AAKOLA WEST,Anurag Singh,Rajesh Singh,131415,27,Male,Active
+```

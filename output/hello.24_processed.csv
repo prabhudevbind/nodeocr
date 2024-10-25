@@ -1,0 +1,25 @@
+## Extracted Voter Record Data
+```
+id,ID,Name,Father's Name,House Number,Age,Gender,Status
+1,AMB1258698,Hasan Sai. Sailani,Sai. Sailani,215,40,Male,NA
+2,AMB1258706,Sultanaparveen Se. Kamaruddin,Se. Kamaruddin,217,42,Female,NA
+3,AMB1770197,Ruksana . Parvin Se. Gamruddin,. Paravina she. Qamruddin,217,40,Female,NA
+4,MUJC1254820,SAYYED ABRAR SAYYED YASIN,Sai. Yaseen,219,5?,Mala,NA
+5,MJC1254416,NISAR MOHAMMAD NOOR MOHAMMAD,Noor Mohammad,224,42,Male,NA
+6,AMB1258839,Se. Mehmood Se. Mehboob,Se, Mehboob,1129,47,Male,NA
+7,MJC1256064,Chandrakant Parasharam Aggarwal,Parasharam Aggarwal,227,41,Male,NA
+8,MJC1256502,Sai. Hafiz Sai. Sirajuddin,Sai. Sirajuddin,230,55,Male,NA
+9,MJC1256346,Farajanabi Sal. Hafeaz,Sai. Hafeez,230,49,Female,Husband's Name: Sai. Hafeez
+10,AMB?445990,Yasmeen Bano Shaikh Yusuf Shaikh,Shaikh Yusuf Shaikh,326,34,Female,Husband's Name: Shaikh Yusuf Shaikh
+11,AMB5802426,SHABANA PARVEEN,JAVED KHAN,256,2?,Female,Husband's Name: JAVED KHAN
+12,AMB?435787,Mohan Nampalli Rudravar,Nampalli Rudravar,405,41,Male,NA
+13,AMB6839369,SHAIKH REHAN QUAESHI SHAIKH NAZEER QURESHI,SHAIKH NAZEER QURESHI,779,28,Male,NA
+14,MJC1254093,Anzum Parvin Sadiq,Sadiq,1121,42,Female,Husband's Name: Sadiq
+15,MJC1256148,Vasik. Ahmed Shafik. Ahmed,Shafik. Anmed,1126,40,Male,NA
+16,MJC0755108,Rafik. Ahmed Shafik. Anmed,Shafik. Ahmed,1126,43,Male,NA
+17,AMB1258730,Se. Hasan Se. Mehboob,Se. Mehboot,1129,43,Male,NA
+18,AMB1673516,Se. Raup Se. Kareem,Se. Kareem,1127,57,Male,NA
+19,AMB1673540,Shahnazbi Se. Menmood,Se, Mehmood,1129,57,Female,Husband's Name: Se, Mehmood
+20,AMB4853386,Mohd Shakir,Gulam Aasool,1580,22,Male,NA
+21,AMB5119341,Mohammad Fazil Mohammad Hareon,Mohammad Sajid Mohammad Iqbal,CB1832,23,Male,NA
+```

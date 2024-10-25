@@ -1,0 +1,33 @@
+```csv
+id,ID,Name,Father's Name,House Number,Age,Gender,Status
+1,AMiB6382049,Raziyabi Sabeer,Se. Sabeer,174,54,Female,Available
+2,amis6302046,Sushil Ashok Kamble,Ashok Kamble,211,32,Male,Available
+3,AMB6276208,SHOER RAHEMAT ULLA KHAN,RAHEMAT ULLA KHAN,219,37,Male,Available
+4,SHAIKH AZEEM SHAIKH HABEEB,SHAIKH HABEEB,222,25,Male,Available
+5,AMB1258755,Santosh Shivdas Pawar,Shivdas Pawar,233,44,Male,Available
+6,MJGO755702,Sandeep Shivdas Pawar,Shivdas Pawar,233,42,Male,Available
+7,MJC1253822,Qayyum Se. Kareem,Se. Kareem,236,41,Male,Available
+8,AMB4106217,Se. Umar,Se. Kareem,236,33,Male,Available
+9,MJCO0755082,Zubaidabi Nadarashah,Nadarashah,241,47,Female,Available
+10,MJCO0755074,Sabir Shah Munim Shah,Munim Shah,241,50,Female,Available
+11,MJC1268606,Paravanabi Rafik Shah,Rafik Shah,241,42,Female,Available
+12,MJC1256379,Noor Mohammad,Abdul Sattar Malik,243,62,Male,Available
+13,MJC1256361,Khan Firoz,Yunus Firaz,298,52,Male,Available
+14,Khan Mushir,Hameed,298,60,Male,Available
+15,AMB1258763,Parvin Shabana,Khan Firaz,298,44,Female,Available
+16,MJC1257336,Saberabi Sabir Shah,Sabir Shah,241,48,Female,Available
+17,AMB 1673557,Khaarunnis Rajak Sha,Rajak Sha,241,42,Female,Available
+18,MJCO754564,Shamashul Hak Nuramahamad,Nuramahamad,243,40,Male,Available
+19,MJC 1257062,Yunuskhan Meharunnisa,Yunuskhan Meharunnisa,298,80,Female,Available
+20,MJCO0752790,Khan Nasrulla,Yunus Nasrulla,298,44,Male,Available
+21,AMB1242023,Shabana,Khan Naseer,298,42,Female,Available
+22,MJC1269422,Rafik Sha Nadarshah,Nadarshah,241,47,Male,Available
+23,MJIC 1268593,Khairunnisa Noor Mahammad Malik,Noor Mohammed Malik,243,62,Female,Available
+24,AMB1664242,Ajjul Hakk A Satar,A Satar,244,57,Male,Available
+25,MJIC1253723,Khan Mohammad,Yunus Mohammad,298,dd,Male,Available
+26,MJG1255710,Rizavanakhatun Yunuskhan Rizvana,Yunuskhan Rizvana,298,48,Female,Available
+27,MJC1253921,Khatoon Ufarajana,Khan Gafafur,298,45,Female,Available
+28,MJC1256684,Khan Yusuf,Yunus Yusuf,298,86,Male,Available
+29,AMB?7428345,Reshma Bismillah Shaikh Shaikh,Bismillah Shaikh Shaikh,326,23,Female,Available
+30,AMBS84 1860,SHAHAJAHAN AKBAR ALI,AKBAR ALI,778,32,Female,Available
+```

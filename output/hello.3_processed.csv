@@ -1,0 +1,32 @@
+```csv
+id,ID,Name,Father's Name,House Number,Age,Gender,Status
+1,AMB5684162,NAJMA BI AMIR KHA,ALI AKHTAR ALI,,1,'Female',Alive
+2,AMBS381421,JAIBUN BEE,SHAIKH AHEMAD,,44,'Female',Alive
+3,AMB5030697,Mohd Arif Mond Hanif,SHaikh karim,Purpidit Golany,48,'Male','Alive'
+4,AMB5684147,Mohammad Alli,Noor Mohammad Malik,,38,'Male','Alive'
+5,AMBS030572,Nasarinbano,Ibrahim Beg,,37,'Female','Alive'
+6,AMBS684261,Jora Bi Mohammad Arif,MO ARIF,Purpidit Colony,44,'Female','Alive'
+7,AMBS4684196,Jel James,Aindu James,,35,'Female','Alive'
+8,AMBS030606,SHAIKH AFAROZ,GULAM NABI,,35,'Male','Alive'
+9,AMB5684147,Shaikh Nadeem,Shaikh Mehboob,,44,'Male','Alive'
+10,AMB5381413,WASEEM KHAN,washir khan,,34,'Male','Alive'
+11,AMB5495247,Sameena Parveen,Mohammad Sami,House Numibar ,33,'Female','Alive'
+12,AMB5683842,humaira bano shamshul haque malik,SHAMSHULHAK MALIK,akol road near gausiya masjid,32,'Female','Alive'
+13,AMBS584246,SAMIR KHA RAHEEM PATHAN,RAHEEMA BAIG,,40,'Male','Alive'
+14,AMB5684220,AlZWANA PARVEEN,SHAIKH SAID,,30,'Female','Alive'
+15,AMBS779616,shahin bano,ibrahim beg,,22,'Female','Alive'
+16,AMB54684238,MUZMMIL KHAN,MOHAMMAD KHAN,,28,'Male','Alive'
+17,AMBS381355,mosin shah,karamat shah,,26,'Male','Alive'
+18,AMB3683818,MANOJ DAYALAL NINOAITA,DAYALAL NINORIYA,,39,'Male','Alive'
+19,AMBS683800,anil narayan agvane,narayan agqvane,,44,'Male','Alive'
+20,AMB5684279,jayashr anil agvane,anil aqvane,,29,'Female','Alive'
+21,AMB5683834,SHAIKH SHAHADAT,SHAIKH SHABBIR,,33,'Male','Alive'
+22,AMB5684253,JAKIYA ALI,AASIYA ALI,,32,'Male','Alive'
+23,AMB5684253,ABDUL RAHEMAN,SHAIKH SHABBIA,,29,'Male','Alive'
+24,AMBS683792,salmaa parveen,rahim af Ibrahim,,27,'Female','Alive'
+25,AMB5883883,parasharam laxminarayan agrawal,laxminarayan agrawal,,59,'Male','Alive'
+26,AMBS589163,SUNIL AGWANE,BABAN AGAWANE,,34,'Male','Alive'
+27,AMBS684022,Mohamad Erfan Mohammad Kurshid Akhtar,Mohammad Kurshid Akhatar,,24,'Male','Alive'
+28,AMBS684022,salma parveen ataullah shah,ataullah shah,,29,'Female','Alive'
+29,AMB6090633,sushil Awate,SHALIKRAM YADAV,,31,'Male','Alive'
+```

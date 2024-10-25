@@ -1,0 +1,35 @@
+**Corrected and Formatted Voter Registration Data**
+
+```csv
+id,ID,Name,Father's Name,House Number,Age,Gender,Status
+1,ane25408,Shanta J. Marnagore,Not provided,Not provided,84,Female,Not provided
+2,pne72648,Dilip Maroti Pundage,Maroti Pundage,126,52,Male,Not provided
+3,Not provided,Aruna J. Dilip Pundage,Dilip Pundage,126,52,Female,Not provided
+4,AMB1770221,Shrikant Sahebrao Kurhade,Sahebrao Kurhade,124,44,Male,Not provided
+5,AMBIF39192,Akabarash,Akabarash,128,54,Male,Not provided
+6,AMBS329882,Shafi Abdul Aziz Chouran,Aziz Chouran,128,36,Male,Not provided
+7,AMB6209928,Samina Firoz Chouran,Firoz Chouran,128,39,Female,Not provided
+8,MJCO806471,Allauddin Pirsab,Pirsab,131,50,Male,Not provided
+9,AMB1258656,Sayrabi Allauddin,Allauddin,131,60,Female,Not provided
+10,Not provided,Sai Razzaq Pirasahab,Pirasahab,131,49,Male,Not provided
+11,AMB7736358,Bhagirata Ganesh Lokhande,Ganesh Lokhande,133,71,Female,Not provided
+12,MJC1292164,Kavita Ganesh Lokhande,Ganesh Lokhande,133,41,Female,Not provided
+13,Not provided,Pochanna Yankeyya Maddaliwar,Yankeyya Maddaliwar,136,58,Male,Not provided
+14,Not provided,Parvin Shamsber Khan Pathan,Shamsher Khan Pathan,139,71,Female,Not provided
+15,MJC1292044,Shahid Shamsher Khan Pathan,Shamsher Khan Pathan,139,41,Male,Not provided
+16,MJC 1291632,Afsanabi Sai Razzaq,Sai Razzaq,131,47,Female,Not provided
+17,MJC1292010,Mohan Ganesh Lokhande,Ganesh Lokhande,133,47,Male,Not provided
+18,AMB1731652,Santosh Ganesh Lokhande,Ganesh Lokhande,133,40,Male,Not provided
+19,AMBa792444,Ajay Chandrashekhar Pande,Chandrashekhar Pande,137,25,Male,Not provided
+20,AMB1258664,Shahanvaj Shamsher Khan Pathan,Shamsher Khan Pathan,139,58,Male,Not provided
+21,AMB1373596,Durga Dattatreya Vavre,Dattatreya Vavre,143,46,Female,Not provided
+22,MICT292192,Ganesh Kerba Lokhande,Kerba Lokhande,133,79,Male,Not provided
+23,MIC 1292028,Sugandha Mohan Lokhande,Mohan Lokhande,133,44,Female,Not provided
+24,AMB1731650,Sanjay Ganesh Lokhande,Ganesh Lokhande,133,36,Male,Not provided
+25,MICT2913976,Shamsher Khan Pathan,Khan Pathan,139,79,Male,Not provided
+26,AMB1258672,Shadab Shamsher Khan Pathan,Shamsher Khan Pathan,139,47,Male,Not provided
+27,AMBG925499,Laxman Rami Vane,Ramji Vane,144,71,Male,Not provided
+28,AMB46925507,Kanta J. Laxman Vane,Laxman Vane,144,67,Female,Not provided
+29,AMB6925515,Minakshi Laxman Vane,Laxman Vane,144,47,Female,Not provided
+30,MJCO806422,Praveen Laxman Vane,Laxman Vane,144,42,Male,Not provided
+```

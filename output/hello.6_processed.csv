@@ -1,0 +1,36 @@
+## Corrected Voter Registration Data
+
+### CSV Output
+
+```csv
+id,ID,Name,Father's Name,House Number,Age,Gender,Status
+1,AMB5684030,Nilesh Shahaji Tupere,Shahaji Tupere,NULL,28,Male,NULL
+2,AMB5S381264,Shrikant Shahaji Tupere,Shahaji Tupere,NULL,32,Male,NULL
+3,AMB5683990,Inayatullah Kirmani,Angad Kirmani,NULL,62,Male,NULL
+4,AMB5558143,Karim Shah,Rasool Shah,NULL,33,Male,NULL
+5,AMB5684006,Asia Parveen Waseem Khan,Waseem Khan,NULL,40,Female,NULL
+6,AMB6109466,Nahida Parveen Shaikh Sadique,Shaikh Sadique,NULL,30,Female,NULL
+7,AMB6122295,Shekh Akhtar,Shekh Anwar,NULL,31,Male,NULL
+8,AMB6211478,Irfan Shah Idris Shah,Idris Shah,NULL,27,Male,NULL
+9,AMB6178818,Shaikh Rehan Shaikh Aquil,Shaikh Aquil,NULL,26,Male,NULL
+10,AMB6124671,Chand Bang Sadik Qureshi,Sadik Qureshi,NULL,26,Male,NULL
+11,AMB6177497,Mo. Kayyum,Shaikh Mehbub,NULL,46,Male,NULL
+12,AMB6211452,Gajala Anjum,MQ. Eesuf,NULL,36,Female,NULL
+13,AMB6177489,Bismillah Bee,Raheman Khan,NULL,33,Female,NULL
+14,AMB5155352,Nikhat Parveen,MQ. Ali,NULL,29,Female,NULL
+15,AMB6255475,Syed Nizam Syed Wahed,Sayyed Vahim,Near Alfalh Masjid, Auranzeb Colony,41,Male,NULL
+16,AMB6120539,Chhota Anwar Shaikh Gulab,Shaikh Gulab,NULL,48,Male,NULL
+17,AMB6104707,Saida Bi Sharukh Khan,Sharukh Khan,NULL,49,Female,NULL
+18,AMB6150932,Naziya Parveen,Gafar Khan,NULL,40,Female,NULL
+19,AMB517653,Farzana Khatoon,Shakil Khan,NULL,62,Female,NULL
+20,AMB6177505,Sai Parvesn Bana,Ahmad Khan,NULL,33,Female,NULL
+21,AMB51?7620,Asia Parvez,Shaikh &, In,NULL,44,Female,NULL
+22,AMB0124622,Nooman Ahmed,AlZ7wan Ahmed,NULL,26,Male,NULL
+23,AMB0124655,Nahid Saba Shaikh Aafik,Shaikh Rafik,NULL,24,Female,NULL
+24,AMB017 7646,Wama Parveen,Israr Khan,NULL,24,Female,NULL
+25,AMB51?77638,Shabatam Parveen,Sayyed Akbar,NULL,22,Female,NULL
+26,AMB5109474,Nagma Parvin,Shekh Akhtar,NULL,26,Female,NULL
+27,AMB6167696,Zulekha Bi Vajir Shaikh,Shekh Vajir,NULL,32,Female,NULL
+28,AMB5684033,Muminaz Bi Zamir Shara,Zamir Shaha,NULL,44,Female,NULL
+29,AMB5683991 $ 98,Reshma Parveen Zamir Shaha,Zamir Shaha,NULL,26,Female,NULL
+```
